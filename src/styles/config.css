@@ -1,0 +1,29 @@
+html {
+   box-sizing: border-box;
+   font-family: 'Inter', sans-serif;
+
+   /* 1rem = 10px */
+   font-size: 62.5%;
+}
+
+body {
+   font-size: 1.6rem;
+}
+
+*, *:before, *:after {
+   margin: 0;
+   padding: 0;
+
+   text-decoration: none;
+   box-sizing: inherit;
+
+   border: none;
+
+   text-decoration: none;
+
+   color: inherit;
+}
+
+input {
+   outline: none;
+}

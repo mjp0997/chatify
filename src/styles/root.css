@@ -1,0 +1,14 @@
+:root {
+   --main-color: #665DFE;
+   --dark-main-color: #4237FE;
+
+   --secondary-color: #323333;
+   --light-secondary-color: #383F44;
+   --soft-dark-secondary-color: #2D2D2D;
+   --dark-secondary-color: #2A2A2A;
+
+   --mute-color: #ADB5BD;
+   --dark-mute-color: #354657;
+
+   --danger-color: #FF337C;
+}

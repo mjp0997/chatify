@@ -1,10 +1,6 @@
 
-
-
 // Styles
 import { Background } from './styles.js';
-
-
 
 const AuthLayout = ({children}) => {
 
@@ -12,7 +8,5 @@ const AuthLayout = ({children}) => {
       <Background>{children}</Background>
    );
 }
-
-
 
 export default AuthLayout;

@@ -1,11 +1,7 @@
 import PropTypes from 'prop-types';
 
-
-
 // Styles
 import { InputGroup, InputInput, InputLabel } from './styles';
-
-
 
 const Input = ({label, type, placeholder, value, handleValue}) => {
 
@@ -31,8 +27,6 @@ const Input = ({label, type, placeholder, value, handleValue}) => {
    );
 }
 
-
-
 Input.propTypes = {
    label: PropTypes.string
 }
@@ -40,7 +34,5 @@ Input.propTypes = {
 Input.defaultProps = {
    label: null
 }
-
-
 
 export default Input;

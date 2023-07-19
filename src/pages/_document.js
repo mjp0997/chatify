@@ -1,7 +1,5 @@
 import { Html, Head, Main, NextScript } from 'next/document';
 
-
-
 const Document = () => {
    return (
       <Html lang='en'>
@@ -15,7 +13,5 @@ const Document = () => {
       </Html>
    );
 }
-
-
 
 export default Document;
